@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap');
+
+* {
+    font-family: 'Mukta', sans-serif;
+}
+
+.button {
+    padding: 20px;
+    margin: 0px 3px;
+    width: 60px;
+    border: 2px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.zero {
+    padding: 20px 62px;
+}
+
+.AC {
+    padding: 20px 62px;
+}
+
+.row {
+    margin: 5px 0px;
+}
+
+.row input {
+    margin: 0;
+    font-size: 20px;
+    padding: 10px 20px;
+    border: 3px solid black;
+    border-radius: 5px;
+    background-color: rgb(191, 190, 190);
+}
+
+.operator {
+    background-color: rgb(220, 77, 16);
+}
+
+footer {
+    padding-top: 100px;
+    text-align: center;
+}
